@@ -1,11 +1,11 @@
 /**
  * @name CustomVision
- * @author Kasi_07
- * @version 1
- * @description Costumized Theme built from ClearVision and Transparent-Background.
+ * @author Kasi07
+ * @version 1.0
+ * @description Costumized Theme built from ClearVision, NotAnotherAnimeThemeSCSL and Transparent-Background.
  */
 
-/* Credits The authors of ClearVision and Transparent-Background for making the original Theme*/
+/* Credits The authors of ClearVision, NotAnotherAnimeThemeSCSL and Transparent-Background for making the original Themes*/
 
 /* IMPORT CSS */
 @import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
@@ -134,23 +134,26 @@
 	--hovered: rgba(79,84,92,0.16) !important;
 	--active: rgba(79,84,92,0.24) !important;
 	
-	    /*
-    Change your friends icon image
-    Default: https://i.imgur.com/63g6Em8.jpg
-    */
-    --friends-icon: url(https://i.imgur.com/63g6Em8.jpg);
+	/*
+    	Change your friends icon image
+    	Default: https://i.imgur.com/63g6Em8.jpg
+    	
+	*/
+    	--friends-icon: url(https://i.imgur.com/63g6Em8.jpg);
 
-    /*
-    Change your friends icon iamge position
-    Default: center center
-    */
-    --friends-icon-position: center center;
-
-    /*
-    Change your friends icon image zoom
-    Default: 100% 
-    */
-    --friends-icon-zoom: 100%;
+    	/*
+	Change your friends icon iamge position
+	Default: center center
 	
---version CustomVision Theme for Discord by Kasi07
+	*/
+	--friends-icon-position: center center;
+
+    	/*
+    	Change your friends icon image zoom
+    	Default: 100% 
+    
+	*/
+    	--friends-icon-zoom: 100%;
+	
+	--version CustomVision Theme for Discord by Kasi07
 }
